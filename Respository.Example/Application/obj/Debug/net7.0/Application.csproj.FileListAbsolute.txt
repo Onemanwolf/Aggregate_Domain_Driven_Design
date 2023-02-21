@@ -1,0 +1,12 @@
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\bin\Debug\net7.0\Application.dll
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\Application.dll
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\timot\source\repos\Aggregate_Domain_Driven_Design\Respository.Example\Application\obj\Debug\net7.0\ref\Application.dll
